@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>com.javanto</groupId>
+  <artifactId>study2tech</artifactId>
+  <version>1-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <localCopy>true</localCopy>
+    </snapshot>
+    <lastUpdated>20150803011958</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>war</extension>
+        <value>1-SNAPSHOT</value>
+        <updated>20150803011958</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>1-SNAPSHOT</value>
+        <updated>20150803011958</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>

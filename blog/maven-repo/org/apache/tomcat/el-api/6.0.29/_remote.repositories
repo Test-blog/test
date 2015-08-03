@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Sun Jun 21 21:35:31 PDT 2015
+el-api-6.0.29.jar>=
+el-api-6.0.29.jar>nexus=
+el-api-6.0.29.pom>nexus=

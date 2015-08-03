@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Sun Jun 21 21:35:31 PDT 2015
+appengine-jsr107cache-1.8.9.jar>=
+appengine-jsr107cache-1.8.9.pom>nexus=
+appengine-jsr107cache-1.8.9.jar>nexus=

@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Sun Jun 21 21:35:31 PDT 2015
+aopalliance-1.0.pom>nexus=
+aopalliance-1.0.jar>=
+aopalliance-1.0.jar>nexus=

@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Sun Jun 21 21:35:31 PDT 2015
+logback-core-0.9.29.jar>=
+logback-core-0.9.29.pom>nexus=
+logback-core-0.9.29.jar>nexus=
